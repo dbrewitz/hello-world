@@ -10,3 +10,5 @@ $('.dropQ').each(function(){
 console.log(count)
 }
 doIt()
+// test
+//testing
